@@ -1,4 +1,4 @@
-# Fashion MNIST Digit Recognition Using Pytorch
+# Fashion MNIST Item Recognition Using Pytorch
 
 Training and testing of a simple network to recognise digits in MNIST dataset using Pytorch.
 
