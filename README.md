@@ -1,6 +1,6 @@
 # Fashion MNIST Item Recognition Using Pytorch
 
-Training and testing of a simple network to recognise digits in MNIST dataset using Pytorch.
+Training and testing of a simple network to recognise clothes in Fashion MNIST dataset using Pytorch.
 
 For Training:
 ```
